@@ -2,6 +2,7 @@
 Title: 駅メモは苦行ではない / 苦行またはメロンパン Advent Calendar 2024
 Category:
 - Misc
+- Advent Calendar
 Date: 2024-12-18T00:00:00+09:00
 URL: https://macchanism.hateblo.jp/entry/kugyo_melonbread_advent_calendar_2024
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/6802418398309329313

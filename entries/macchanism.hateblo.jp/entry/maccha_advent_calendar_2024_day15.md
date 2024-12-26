@@ -2,6 +2,7 @@
 Title: JavaScriptからTypeScriptへ / maccha Advent Calendar 2024
 Category:
 - Tech
+- Advent Calendar
 Date: 2024-12-15T20:13:35+09:00
 URL: https://macchanism.hateblo.jp/entry/maccha_advent_calendar_2024_day15
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/6802418398311827176

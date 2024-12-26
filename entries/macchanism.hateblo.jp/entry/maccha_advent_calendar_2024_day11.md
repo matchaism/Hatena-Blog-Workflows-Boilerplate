@@ -2,6 +2,7 @@
 Title: 久しぶりにwebサイトを更新しながら2024年を振り返り / maccha Advent Calendar 2024
 Category:
 - Misc
+- Advent Calendar
 Date: 2024-12-11T00:00:00+09:00
 URL: https://macchanism.hateblo.jp/entry/maccha_advent_calendar_2024_day11
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/6802418398310590991
