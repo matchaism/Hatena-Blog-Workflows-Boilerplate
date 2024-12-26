@@ -2,6 +2,7 @@
 Title: UEC Advent Calendar 2024 Day8 あとがき
 Category:
 - Misc
+- Advent Calendar
 Date: 2024-12-08T00:10:47+09:00
 URL: https://macchanism.hateblo.jp/entry/uec_advent_calendar_2024_appendix
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/6802418398309566177

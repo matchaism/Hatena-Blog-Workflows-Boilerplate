@@ -2,6 +2,7 @@
 Title: シン・鍋会 / whywaita Advent Calendar 2024
 Category:
 - Misc
+- Advent Calendar
 Date: 2024-12-08T00:03:58+09:00
 URL: https://macchanism.hateblo.jp/entry/whywaita_advent_calendar_2024
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/6802418398309713452
