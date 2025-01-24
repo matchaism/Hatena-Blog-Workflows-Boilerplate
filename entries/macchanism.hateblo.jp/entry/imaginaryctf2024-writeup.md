@@ -44,50 +44,7 @@ ImaginaryCTF 2024に参加した．
 
 [https://github.com/volatilityfoundation/volatility3:embed:cite]
 
-```shell
-$ python3 volatility3/vol.py -f dump.vmem windows.info.Info
-Volatility 3 Framework 2.7.2
-(中略)
-Progress:  100.00               PDB scanning finished                        
-Variable        Value
-
-Kernel Base     0xf80344205000
-DTB     0x1ad000
-Symbols file:///(中略)
-Is64Bit True
-IsPAE   False
-layer_name      0 WindowsIntel32e
-memory_layer    1 FileLayer
-KdVersionBlock  0xf80344e14400
-Major/Minor     15.19041
-MachineType     34404
-KeNumberProcessors      1
-SystemTime      2024-07-19 02:02:18
-NtSystemRoot    C:\Windows
-NtProductType   NtProductWinNt
-NtMajorVersion  10
-NtMinorVersion  0
-PE MajorOperatingSystemVersion  10
-PE MinorOperatingSystemVersion  0
-PE Machine      34404
-PE TimeDateStamp        Mon Dec  9 11:07:51 2019
-
-$ python3 volatility3/vol.py -f dump.vmem windows.filescan | grep flag
-(中略)
-0xc60c81c70ce0.0\Users\imaginarypc\Documents\flag.txt   216
-0xc60c81c7c540  \Users\imaginarypc\AppData\Roaming\Microsoft\Windows\Recent\flag.lnk    216
-
-$ python3 volatility3/vol.py -f dump.vmem windows.dumpfiles --virtaddr 0xc60c81c70ce0
-Volatility 3 Framework 2.7.2
-(中略)
-Progress:  100.00               PDB scanning finished                        
-Cache   FileObject      FileName        Result
-
-DataSectionObject       0xc60c81c70ce0  flag.txt        file.0xc60c81c70ce0.0xc60c83b5e650.DataSectionObject.flag.txt.dat
-
-$ strings file.0xc60c81c70ce0.0xc60c83b5e650.DataSectionObject.flag.txt.dat 
-aWN0ZnthYTBlYjcwN2E0MWIyY2E2fQ==
-```
+<script src="https://gist.github.com/matchaism/6117a21e95aecb4521f99f3a4d580ccd.js"></script>
 
 base64のデコード結果: `ictf{aa0eb707a41b2ca6}`
 
