@@ -1,0 +1,12 @@
+name: push draft to hatena blog
+
+on:
+  pull_request:
+    paths:
+      - "draft_entries/**"
+
+jobs:
+  push-draft:
+    uses: hatena/hatenablog-workflows/.github/workflows/push-draft.yaml@8564b85b51cda20eb962f0dec3bf3fcff3dd0326 # v2.0.7
+    secrets:
+      OWNER_API_KEY: ${{ secrets.OWNER_API_KEY }}
