@@ -12,6 +12,8 @@ EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/1
 
 [maccha Advent Calendar 2025](https://adventar.org/calendars/11818)の7日目の記事(12/14投稿)です。
 
+本記事はChatGPTを利用して執筆しました。
+
 ## 新しいキーボードを手に入れた
 
 キーボードは毎日の作業に欠かせない道具です。
