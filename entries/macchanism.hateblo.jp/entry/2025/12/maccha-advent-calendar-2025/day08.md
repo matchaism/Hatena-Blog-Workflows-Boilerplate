@@ -1,10 +1,11 @@
 ---
 Title: さいたま新都心で過ごす休日 / maccha Advent Calener 2025
 Category:
-  - Advent Calendar
-  - Misc
+- Advent Calendar
+- Misc
+Date: 2025-12-15T08:58:19+09:00
+URL: https://macchanism.hateblo.jp/entry/2025/12/maccha-advent-calendar-2025/day08
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/17179246901332794621
-PreviewURL: https://macchanism.hateblo.jp/draft/entry/S9Po_sjFkfbunY-Nu0VmJWkEqNs
 ---
 
 # さいたま新都心で過ごす休日
