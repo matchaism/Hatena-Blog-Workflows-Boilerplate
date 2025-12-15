@@ -25,6 +25,8 @@ EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/1
     - さいたま新都心周辺に用がある方
     - さいたま新都心周辺で1日過ごしたい方
 
+<!-- more -->
+
 ## コクーンシティとは
 
 [コクーンシティ](https://www.cocooncity.jp/:)はさいたま新都心駅前に広がる、市内有数の規模を誇るショッピングモールです。もともとは片倉工業の製糸場跡地を再開発して誕生した施設で、「コクーン(Cocoon)」という名称も「繭」に由来しています。
