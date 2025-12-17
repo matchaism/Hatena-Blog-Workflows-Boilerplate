@@ -3,9 +3,9 @@ Title: こんな技術書を読みたい / maccha Advent Calendar 2025
 Category:
 - Advent Calendar
 - Tech
+Date: 2025-12-18T00:42:15+09:00
+URL: https://macchanism.hateblo.jp/entry/2025/12/maccha-advent-calendar-2025/day18
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/17179246901333883768
-PreviewURL: https://macchanism.hateblo.jp/draft/entry/NOGF2eH0wyz6A0taAIxC2537njY
-CustomPath: 2025/12/maccha-advent-calendar-2025/day18
 ---
 
 # こんな技術書を読みたい
