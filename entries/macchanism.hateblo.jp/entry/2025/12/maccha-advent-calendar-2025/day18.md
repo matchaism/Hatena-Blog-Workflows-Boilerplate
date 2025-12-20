@@ -16,6 +16,8 @@ EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/1
 
 本記事の内容は，2026年に読みたい技術書やサイトのテーマのおぼえがきになります．おすすめの技術書やサイト，映像コンテンツなどあれば，是非ご共有いただきたいです．
 
+<!-- more -->
+
 ## 1. 技術系
 
 ### ネットワーク
