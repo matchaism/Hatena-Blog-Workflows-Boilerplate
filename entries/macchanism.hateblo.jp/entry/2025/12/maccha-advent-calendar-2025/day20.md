@@ -3,9 +3,9 @@ Title: パソコン処分のベタープラクティス / maccha Advent Calendar
 Category:
 - Advent Calendar
 - Misc
+Date: 2025-12-20T23:12:10+09:00
+URL: https://macchanism.hateblo.jp/entry/2025/12/maccha-advent-calendar-2025/day20
 EditURL: https://blog.hatena.ne.jp/macchanism/macchanism.hateblo.jp/atom/entry/17179246901334930511
-PreviewURL: https://macchanism.hateblo.jp/draft/entry/o6CJtd9Auk9LOvDFk1gVhuFNxCw
-CustomPath: 2025/12/maccha-advent-calendar-2025/day20
 ---
 
 # パソコン処分のベタープラクティス
